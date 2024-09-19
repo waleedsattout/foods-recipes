@@ -1,0 +1,99 @@
+{
+  "@@locale": "en",
+  "searchForaRecipe": "Search for a recipe",
+  "searchForanIngredient": "Search for an ingredient",
+  "recipe": "Recipe",
+  "noDataFound": "No data found",
+  "general": "General",
+  "bechamel": "Bechamel Spaghetti",
+  "ingredients": "Ingredients",
+  "more": "More",
+  "advacedOptions": "Advanced Options",
+  "importAndExportData": "Import and Export data",
+  "advancedSearch": "Advanced Search",
+  "filters": "Filters",
+  "rating": "Rating",
+  "add": "Add",
+  "cancel": "Cancel",
+  "edit": "Edit",
+  "apply": "Apply",
+  "close": "Close",
+  "delete": "Delete",
+  "submit": "Submit",
+  "season": "Season",
+  "category": "Category",
+  "selectSeason": "Select Season",
+  "emptyIngredientsError": "You need to add some ingredients before adding a new recipe.",
+  "bechamelDescription": "Béchamel is comprised of butter and flour that have been cooked with milk, resulting a silky cream sauce.",
+  "manageMeasurements": "Manage Measurements",
+  "unit": "unit",
+  "yourImageWillShowUpHere": "Your images will show up here",
+  "pickImage": "Pick Image",
+  "name": "Name",
+  "description": "Description",
+  "enterFewWordsForYourRecipe": "Enter few words for your recipe.",
+  "editRecipe": "Edit Recipe",
+  "recipeWasEditedSuccessfully": "Recipe was edited successfully.",
+  "addRecipe": "Add a Recipe",
+  "ingredientsDefinition": "Ingredients Definition",
+  "recipeData": "Recipe Data",
+  "recipeSteps": "Recipe Steps",
+  "finalResult": "Final Result",
+  "editIngredients": "Edit Ingredients",
+  "ingredientsWereEditedSuccessfully": "Ingredients were edited successfully.",
+  "uncompleteSteps": "You need to complete all steps before reviewing this screen.",
+  "youHaveSelectedAllIngredients": "You have selected all ingredients already.",
+  "meats": "Meats",
+  "addNewModelError": "There is a {model} with the same name",
+  "@addNewModelError": {
+    "placeholders": {
+      "model": {
+        "example": "Recipe"
+      }
+    }
+  },
+  "modelActionSuccess": "{model} was {action} successfully.",
+  "@modelActionSuccess": {
+    "description": "Indicates that a model action was performed successfully",
+    "placeholders": {
+      "model": {
+        "example": "Recipe"
+      },
+      "action": {
+        "example": "added"
+      }
+    }
+  },
+  "addEditDeleteModel": "{action} {model}",
+  "@addModel": {
+    "placeholders": {
+      "model": {
+        "example": "Recipe"
+      },
+      "action": {
+        "example": "added"
+      }
+    }
+  },
+  "newIngredient": "New Ingredient",
+  "quantity": "Quantity",
+  "measurement": "Measurement",
+  "search": "Search",
+  "categoryList": "Categories List",
+  "ingredientList": "Ingredients List",
+  "emptyCategoriesError": "You need to add some categories first",
+  "emptySelectionNewIngredient": "Please enter a name and select a category",
+  "steps": "Steps",
+  "step": "Step",
+  "stepHintLong": "Whisk flour into melted butter until the roux is thick and golden.",
+  "stepHintShort": "Whisk flour into melted butter until ...",
+  "deleteWarning": "You are about to DELETE this recipe permanently.",
+  "holdOn": "Hold on !!!",
+  "deleteIngredientWarning": "You are about to delete ingredient that may some recipe rely on. this will delete every recipe that is related to it.",
+  "exportSuccess": "Data exported successfully!",
+  "importSuccess": "Data imported successfully!",
+  "importExport": "Import/Export",
+  "exportData": "Export Data",
+  "importData": "Import Data",
+  "oneIngredientDeletion": "You can't have a recipe without ingredients."
+}

@@ -1,0 +1,99 @@
+{
+  "@@locale": "ar",
+  "searchForaRecipe": "ابحث عن وصفة",
+  "searchForanIngredient": "ابحث عن مكون",
+  "recipe": "وصفة",
+  "noDataFound": "لا يوجد بيانات",
+  "general": "القائمة الرئيسية",
+  "bechamel": "سباغيتي بالبشاميل",
+  "ingredients": "المكونات",
+  "more": "المزيد",
+  "advacedOptions": "إعدادات متقدمة",
+  "importAndExportData": "تصدير واستيراد البيانات",
+  "advancedSearch": "بحث متقدم",
+  "filters": "فلترة",
+  "rating": "التقييم",
+  "add": "إضافة",
+  "cancel": "إلغاء",
+  "apply": "موافق",
+  "submit": "إرسال",
+  "close": "إغلاق",
+  "delete": "حذف",
+  "season": "الفصل",
+  "category": "صنف",
+  "edit": "تعديل",
+  "selectSeason": "اختر فصلاً",
+  "emptyIngredientsError": "تحتاج إلى إضافة بعض المكونات قبل إضافة وصفة جديدة.",
+  "bechamelDescription": "يتكون البشاميل من الزبدة والدقيق المطبوخ مع الحليب للحصول على صلصة كريمية حريرية.",
+  "manageMeasurements": "إدارة المقاييس",
+  "unit": "الواحدة",
+  "yourImageWillShowUpHere": "ستظهر الصورة هنا",
+  "pickImage": "اختر صورة",
+  "name": "الاسم",
+  "description": "الوصف",
+  "enterFewWordsForYourRecipe": "اكتب بعض الكلمات عن الوصفة.",
+  "editRecipe": "تعديل الوصفة",
+  "recipeWasEditedSuccessfully": "تم تعديل الوصفة بنجاح.",
+  "addRecipe": "إضافة وصفة",
+  "recipeData": "بيانات الوصفة",
+  "ingredientsDefinition": "مقادير المكونات",
+  "recipeSteps": "خطوات الوصفة",
+  "finalResult": "النتيجة النهائية",
+  "editIngredients": "تعديل المقادير",
+  "ingredientsWereEditedSuccessfully": "تم تعديل المقادير بنجاح.",
+  "uncompleteSteps": "يجب أن تكمل كل الخطوات في الصفحة السابقة للوصول لهذه الصفحة.",
+  "youHaveSelectedAllIngredients": "لقد اخترت كل المقادير مسبقاً.",
+  "meats": "لحوم",
+  "addNewModelError": "يوجد {model} بهذا الاسم",
+  "@addNewModelError": {
+    "placeholders": {
+      "model": {
+        "example": "وصفة"
+      }
+    }
+  },
+  "modelActionSuccess": "تمت {action} {model} بنجاح.",
+  "@modelActionSuccess": {
+    "description": "Indicates that a model action was performed successfully",
+    "placeholders": {
+      "model": {
+        "example": "وصفة"
+      },
+      "action": {
+        "example": "إضافة"
+      }
+    }
+  },
+  "addEditDeleteModel": "{action} {model}",
+  "@addModel": {
+    "placeholders": {
+      "model": {
+        "example": "Recipe"
+      },
+      "action": {
+        "example": "added"
+      }
+    }
+  },
+  "newIngredient": "مكون جديد",
+  "quantity": "كمية",
+  "measurement": "الواحدة",
+  "search": "البحث",
+  "categoryList": "قائمة الأصناف",
+  "ingredientList": "قائمة المكونات",
+  "emptyCategoriesError": "ينبغي إضافة أصناف أولاً",
+  "steps": "خطوات",
+  "step": "خطوة",
+  "stepHintLong": "اخفق الدقيق مع الزبدة المذابة حتى يصبح الرو سميكًا وذهبيًا.",
+  "stepHintShort": "اخفق الدقيق مع الزبدة المذابة حتى...",
+  "emptySelectionNewIngredient": "اكتب اسماً واختر صنفاً أولاً",
+  "deleteWarning": "أنت على وشك حذف هذه الوصفة نهائياً.",
+  "holdOn": "انتبه !!!",
+  "deleteIngredientWarning": "أنت على وشك حذف المكونات التي قد تعتمد عليها بعض الوصفات. سيؤدي هذا إلى حذف كل وصفة مرتبطة بها.",
+  "exportSuccess": "تم تصدير البيانات بنجاح!",
+  "importExport": "استيراد /تصدير",
+  "importSuccess": "تم استيراد البيانات بنجاح!",
+  "exportData": "تصدير البيانات",
+  "importData": "استيراد البيانات",
+  "oneIngredientDeletion": "لا يمكن لوصفة أن لا تحوي على مكونات."
+}
